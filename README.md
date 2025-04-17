@@ -12,3 +12,5 @@
 
 - Matplotlib은 파이썬에서 자주 사용되는 시각화 패키지입니다.  
   matplotlib을 통해 우리는 데이터를 선형 그래프, 바 그래프, 히스토그램, 산점도 등의 형태로 나타낼 수 있습니다.  
+
+- pip install -r requirements.txt로 패키지를 설치합니다.
