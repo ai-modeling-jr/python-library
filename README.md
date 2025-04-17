@@ -1,4 +1,4 @@
-# python-library
+# python-library 수행활동
 
 - [ ] Pandas 실습
 - [ ] 붓꽃 데이터 세트를 이용하여 plot 그리기  
